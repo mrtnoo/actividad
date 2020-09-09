@@ -1,2 +1,2 @@
 # actividad
-actividad n 1
+actividad n1
